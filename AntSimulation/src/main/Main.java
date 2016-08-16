@@ -2,8 +2,8 @@ package main;
 
 public class Main {
 
-	public static void main(String[] args) {
-		popo
+	static public void main(String[] args) {
+		
 	}
 
 }
